@@ -13,5 +13,9 @@ public static void main(String[] args) {
 	list.add(54);
 	list.stream().forEach(System.out::println);
 	
+	System.out.println("List Element : "+list);
+	
+
+	
 }
 }
